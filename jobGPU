@@ -30,6 +30,6 @@
 #module load cuda/10.0.130
 
 #ejecutar el o los binarios con sus respectivos argumentos
-for i in {5..25}; do ./exc2 $((1+i)*300); done
+for i in {5..25}; do ./exc2.out $(((1+i)*300)); done
 
 
