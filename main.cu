@@ -130,10 +130,10 @@ int main(int argc, char *argv[]){
         } catch (std::out_of_range){
             printf("Out of range for X\n");
             return 1;
-        } catch (...){
+        } /*catch (...){
             printf("Unknown error for X\n");
             return 1;
-        } 
+        } */
     } else if (argc == 3){
         length = argv[2];
         try{
@@ -144,10 +144,10 @@ int main(int argc, char *argv[]){
         } catch (std::out_of_range){
             printf("Out of range for Y\n");
             return 1;
-        } catch (...){
+        }/* catch (...){
             printf("Unknown error for Y\n");
             return 1;
-        } 
+        } */
     } else {
         length = argv[3];
         try{
@@ -158,10 +158,10 @@ int main(int argc, char *argv[]){
         } catch (std::out_of_range){
             printf("Out of range for Z\n");
             return 1;
-        } catch (...){
+        }/* catch (...){
             printf("Unknown error for Z\n");
             return 1;
-        } 
+        } */
     }
 
     cudaDeviceProp prop;

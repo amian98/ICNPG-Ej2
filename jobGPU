@@ -32,4 +32,3 @@
 #ejecutar el o los binarios con sus respectivos argumentos
 for i in {1..25}; do ./exc2.out $(((1+i)*300)); done
 
-
