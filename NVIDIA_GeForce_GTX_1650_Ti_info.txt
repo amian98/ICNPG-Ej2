@@ -1,6 +1,2 @@
-Nombre: NVIDIA GeForce GTX 1650 Ti
-Capacidad de cómputo: 7.5
-Memoria global: 4095 MB
-Reloj de núcleo: 1485 MHz
-Hilos por bloque: 1024
-Multiprocesadores: 16
+Nombre: $NVIDIA GeForce GTX 1650 Ti$    Capacidad de cómputo: $7.5$    Memoria global: $4095MB$
+Reloj de núcleo: $1485MHz$    Hilos por bloque: $1024$    Multiprocesadores: $16$

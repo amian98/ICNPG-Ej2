@@ -1,6 +1,2 @@
-Nombre: NVIDIA GeForce GTX 780
-Capacidad de cómputo: 3.5
-Memoria global: 3019 MB
-Reloj de núcleo: 901 MHz
-Hilos por bloque: 1024
-Multiprocesadores: 12
+Nombre: $NVIDIA GeForce GTX 780$    Capacidad de cómputo: $3.5$    Memoria global: $3019MB$ 
+Reloj de núcleo: $901MHz$    Hilos por bloque: $1024$    Multiprocesadores: $12$

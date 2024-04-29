@@ -1,0 +1,2 @@
+Nombre: $Tesla T4$    Capacidad de cómputo: $7.5$    Memoria global: $15102MB$ 
+Reloj de núcleo: $1590MHz$    Hilos por bloque: $1024$    Multiprocesadores: $40$
